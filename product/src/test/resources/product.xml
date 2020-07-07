@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+	<PRODUCTS ID="1001" NAME="Babador" URL="/imagem/servxc" PRICE="100" />
+	<PRODUCTS ID="1002" NAME="Babador infantil" URL="/imagem/img2" PRICE="10.50" />
+	<PRODUCTS ID="1007" NAME="Babador bobao" URL="/imagem/servxc" PRICE="100.20" />
+	
+</dataset>
