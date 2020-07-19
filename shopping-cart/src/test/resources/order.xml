@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<dataset>
-
-	<CUSTOMERS ID="1" NAME="Ovo junior" EMAIL="rholtzbr@gmail.com" PASSWORD="9135d8523ad3da99d8a4eb83afac13d1" />
-	<CUSTOMERS ID="2" NAME="rafale silva" EMAIL="rholtzbr@hotmail.com" PASSWORD="ee7e4705dd4ac06adfe650c2cdc39bdd" />
-	<CUSTOMERS ID="3" NAME="jones pinto" EMAIL="rholtzbr2@gmail.com" PASSWORD="9135d8523ad3da99d8a4eb83afac13d1" />
-	<CUSTOMERS ID="4" NAME="pablo bobao" EMAIL="rholtzbr1@gmail.com" PASSWORD="353fc1c2b3ac23d7e579e48d91626a30" />
-	
-</dataset>

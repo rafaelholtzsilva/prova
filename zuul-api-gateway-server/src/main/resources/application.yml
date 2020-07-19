@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: zuul-api-gateway-server
+server:
+  port: 8765
+  servlet:
+    context-path: /gateway
+    
+
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8671/eureka
+      fetch-registry: true
+      register-with-eureka: true  
+  instance:
+    prefer-ip-address: true

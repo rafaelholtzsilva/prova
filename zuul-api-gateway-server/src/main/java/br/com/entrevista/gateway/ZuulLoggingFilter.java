@@ -18,12 +18,12 @@ import com.netflix.zuul.context.RequestContext;
 public class ZuulLoggingFilter extends ZuulFilter {
 
 	private Logger logger = LoggerFactory.getLogger(getClass());
-
+	
 	@Override
 	public boolean shouldFilter() {
 		return true;
 	}
-
+	
 	@Override
 	public Object run() {
 		HttpServletRequest request = RequestContext.getCurrentContext().getRequest();
