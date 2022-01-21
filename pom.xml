@@ -31,7 +31,7 @@
 		<!-- test verions -->
 		<testng.version>7.1.0</testng.version>
 		<mockito.version>3.3.3</mockito.version>
-		<h2.version>1.4.187</h2.version>
+		<h2.version>2.1.210</h2.version>
 		<jackson.version>2.7.5</jackson.version>
 		<dbunit.version>2.7.0</dbunit.version>
 
